@@ -9,7 +9,6 @@
 📫 Redes Sociais: 
 
 LinkedIn: https://www.linkedin.com/in/lucas-barbosa-dourado 
-
 E-mail: douradoblucas@gmail.com
 
 <!---
