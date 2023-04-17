@@ -1,4 +1,4 @@
-Olá, Eu sou @lucasbdourado - Lucas Barbosa Dourado. Sou Desenvolvedor Full-Stack PHP e Java, atualmente trabalho com Desenvolvimento para Salesforce e me especializando em Spring Boot;
+👋 Olá, Eu sou @lucasbdourado - Lucas Barbosa Dourado. Sou Desenvolvedor Full-Stack PHP e Java, atualmente trabalho com Desenvolvimento para Salesforce e me especializando em Spring Boot;
 
 👨🏿‍🎓 Minhas Formações: 
 
