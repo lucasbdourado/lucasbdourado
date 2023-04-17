@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @lucasbdourado - Lucas Barbosa Dourado;
 - 💻 Sou Desenvolvedor Full-Stack PHP e Java, atualmente trabalho com Desenvolvimento para Salesforce;
 
-- 👨🏿‍🎓 Minhas Formações: 
+👨🏿‍🎓 Minhas Formações: 
 
 - Desenvolvedor Full-Stack Java - EBAC;
 - Curso Técnico em Informática para Internet - SENAI Sul Joinville;
