@@ -4,7 +4,7 @@
 
 - Desenvolvedor Full-Stack Java - EBAC;
 - Curso Técnico em Informática para Internet - SENAI Sul Joinville;
-- Análise e Desenvolvimento de Sistemas - UNIVILLE / UDESC;
+- Análise e Desenvolvimento de Sistemas - UNIVILLE / UDESC - Em Andamento;
 
 📫 Redes Sociais: 
 
