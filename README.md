@@ -7,8 +7,8 @@
 - Análise e Desenvolvimento de Sistemas - UNIVILLE / UDESC;
 
 📫 Redes Sociais: 
-- LinkedIn: https://www.linkedin.com/in/lucas-barbosa-dourado 
-- E-mail: douradoblucas@gmail.com
+LinkedIn: https://www.linkedin.com/in/lucas-barbosa-dourado 
+E-mail: douradoblucas@gmail.com
 
 <!---
 lucasbdourado/lucasbdourado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
