@@ -1,6 +1,6 @@
 👋 Olá, Meu nome é Lucas Barbosa Dourado. Sou Desenvolvedor Full-Stack PHP e Java, atualmente trabalho com desenvolvimento na plataforma Salesforce e especializando em Java EE e Spring Boot;
 
-👨🏿‍🎓 Formações: 
+👨🏿‍🎓 Formações e Certificações: 
 
 - Desenvolvedor Full-Stack Java - EBAC;
 - Curso Técnico em Informática para Internet - SENAI Sul Joinville;
