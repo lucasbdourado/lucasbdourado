@@ -1,4 +1,4 @@
-👋 Olá, Meu nome é Lucas Barbosa Dourado. Sou Desenvolvedor Full-Stack PHP e Java, atualmente trabalho como Desenvolvedor Full-Stack Java;
+👋 Olá, Meu nome é Lucas Barbosa Dourado. Sou Desenvolvedor Full-Stack Java;
 
 👨🏿‍🎓 Formações e Certificações: 
 
