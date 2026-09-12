@@ -1,15 +1,13 @@
-👋 Olá, Meu nome é Lucas Barbosa Dourado. Sou Desenvolvedor Full-Stack Java;
+👋 I'm Lucas Dourado, Full-Stack Sofware Engineer at Neomind, working with Java;
 
 👨🏿‍🎓 Formações e Certificações: 
 
-- Desenvolvedor Full-Stack Java - EBAC;
-- Curso Técnico em Informática para Internet - SENAI Sul Joinville;
-- Análise e Desenvolvimento de Sistemas - Católica SC - Em Andamento;
+- Full-Stack Java Developer Certification at EBAC;
+- Technical Diploma - Web Developer at SENAI Sul Joinville;
 
-📫 Redes Sociais: 
+📫 Social Medias: 
 
-LinkedIn: https://www.linkedin.com/in/lucas-barbosa-dourado 
-
+LinkedIn: https://www.linkedin.com/in/lucas-barbosa-dourado
 E-mail: douradoblucas@gmail.com
 
 <!---
